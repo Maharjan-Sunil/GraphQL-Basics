@@ -24,5 +24,14 @@
        "lastName":"Panigrahi",
        "password": "pass123",
        "collegeId": "col-101"
-    }
+    },
+
+    {
+      "id": "S1004",
+      "firstName":"Sunil",
+      "lastName":"Maharjan",
+      "email": "mohtashim.mohammad@tutorialpoint.org",
+      "password": "pass123",
+      "collegeId": "col-102"
+   },
  ]
